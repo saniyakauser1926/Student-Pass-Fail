@@ -1,0 +1,6 @@
+study_hours,attendance,assignments_completed,previous_score,result
+5,90,8,75,Pass
+-2,95,7,80,Pass
+3,105,5,60,Fail
+7,88,-1,70,Pass
+4,92,6,110,Fail
